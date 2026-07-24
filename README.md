@@ -44,43 +44,43 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Streaming ETL Tools
 
-- **[Apache Kafka](https://github.com/apache/kafka)**  
+- **[Apache Kafka](https://github.com/apache/kafka)** [![Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)  
   The de-facto standard for streaming data pipelines with Connect for ETL and Streams for processing.
 
-- **[Apache Flink](https://github.com/apache/flink)**  
+- **[Apache Flink](https://github.com/apache/flink)** [![Stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers)  
   Powerful open-source stream and batch processing framework with excellent stateful ETL capabilities.
 
-- **[Apache Spark Streaming](https://github.com/apache/spark)**  
+- **[Apache Spark Streaming](https://github.com/apache/spark)** [![Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)  
   Unified analytics engine with robust streaming ETL and micro-batch processing.
 
-- **[RisingWave](https://github.com/risingwavelabs/risingwave)**  
+- **[RisingWave](https://github.com/risingwavelabs/risingwave)** [![Stars](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=social&color=white)](https://github.com/risingwavelabs/risingwave/stargazers)  
   Open-source streaming database for real-time ETL and materialized views.
 
-- **[Materialize](https://github.com/MaterializeInc/materialize)**  
+- **[Materialize](https://github.com/MaterializeInc/materialize)** [![Stars](https://img.shields.io/github/stars/MaterializeInc/materialize?style=social&color=white)](https://github.com/MaterializeInc/materialize/stargazers)  
   Open-source streaming SQL database for incremental computation and real-time analytics.
 
-- **[Apache Pulsar](https://github.com/apache/pulsar)**  
+- **[Apache Pulsar](https://github.com/apache/pulsar)** [![Stars](https://img.shields.io/github/stars/apache/pulsar?style=social&color=white)](https://github.com/apache/pulsar/stargazers)  
   Cloud-native distributed messaging and streaming platform with strong ETL support.
 
-- **[Redpanda](https://github.com/redpanda-data/redpanda)**  
+- **[Redpanda](https://github.com/redpanda-data/redpanda)** [![Stars](https://img.shields.io/github/stars/redpanda-data/redpanda?style=social&color=white)](https://github.com/redpanda-data/redpanda/stargazers)  
   Kafka-compatible streaming platform written in C++ for high performance.
 
-- **[Estuary Flow](https://github.com/estuary/flow)**  
+- **[Estuary Flow](https://github.com/estuary/flow)** [![Stars](https://img.shields.io/github/stars/estuary/flow?style=social&color=white)](https://github.com/estuary/flow/stargazers)  
   Open-source real-time data platform for streaming ETL and materialization.
 
-- **[Vector](https://github.com/vectordotdev/vector)**  
+- **[Vector](https://github.com/vectordotdev/vector)** [![Stars](https://img.shields.io/github/stars/vectordotdev/vector?style=social&color=white)](https://github.com/vectordotdev/vector/stargazers)  
   High-performance observability data pipeline for collecting, transforming, and routing events.
 
-- **[Fluent Bit](https://github.com/fluent/fluent-bit)**  
+- **[Fluent Bit](https://github.com/fluent/fluent-bit)** [![Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers)  
   Lightweight and high-performance log and data processor for streaming pipelines.
 
 ### Additional Strong Open-Source Options
 
-- **[Kafka Connect](https://github.com/apache/kafka)** with numerous connectors for ETL.
-- **[Debezium](https://github.com/debezium/debezium)** — Change data capture for streaming ETL from databases.
-- **[Nifi](https://github.com/apache/nifi)** — Data flow automation and ETL with visual interface.
-- **[Benthos](https://github.com/benthosdev/benthos)** — Lightweight stream processing with rich ETL capabilities.
-- **[Bytewax](https://github.com/bytewax/bytewax)** — Python stream processing framework for custom ETL.
+- **[Kafka Connect](https://github.com/apache/kafka)** [![Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) with numerous connectors for ETL.
+- **[Debezium](https://github.com/debezium/debezium)** [![Stars](https://img.shields.io/github/stars/debezium/debezium?style=social&color=white)](https://github.com/debezium/debezium/stargazers) — Change data capture for streaming ETL from databases.
+- **[Benthos](https://github.com/benthosdev/benthos)** [![Stars](https://img.shields.io/github/stars/benthosdev/benthos?style=social&color=white)](https://github.com/benthosdev/benthos/stargazers) — Lightweight stream processing with rich ETL capabilities.
+- **[Nifi](https://github.com/apache/nifi)** [![Stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers) — Data flow automation and ETL with visual interface.
+- **[Bytewax](https://github.com/bytewax/bytewax)** [![Stars](https://img.shields.io/github/stars/bytewax/bytewax?style=social&color=white)](https://github.com/bytewax/bytewax/stargazers) — Python stream processing framework for custom ETL.
 - **[Many Apache Flink** and **Kafka Streams** examples and templates.
 
 **Frameworks for building custom pipelines**: Combine **Apache Kafka**, **Flink**, **RisingWave**, and **Vector** with **dbt** or **Materialize** for complete open-source streaming ETL solutions.
