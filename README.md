@@ -54,14 +54,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### 🛠️ Dedicated Streaming ETL Tools
 
+- **[Apache Spark Streaming](https://github.com/apache/spark)** [![Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)  
+  Unified analytics engine with robust streaming ETL and micro-batch processing.
+
 - **[Apache Kafka](https://github.com/apache/kafka)** [![Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)  
   The de-facto standard for streaming data pipelines with Connect for ETL and Streams for processing.
 
 - **[Apache Flink](https://github.com/apache/flink)** [![Stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers)  
   Powerful open-source stream and batch processing framework with excellent stateful ETL capabilities.
-
-- **[Apache Spark Streaming](https://github.com/apache/spark)** [![Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers)  
-  Unified analytics engine with robust streaming ETL and micro-batch processing.
 
 - **[RisingWave](https://github.com/risingwavelabs/risingwave)** [![Stars](https://img.shields.io/github/stars/risingwavelabs/risingwave?style=social&color=white)](https://github.com/risingwavelabs/risingwave/stargazers)  
   Open-source streaming database for real-time ETL and materialized views.
