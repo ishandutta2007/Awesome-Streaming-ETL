@@ -2,7 +2,7 @@
 
 ![Awesome Streaming ETL Banner](assets/banner.svg)
 
-## Top Streaming ETL Ecosystem
+## 🌟 Top Streaming ETL Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Real-Time Data Streaming, ETL & Event Processing*  
@@ -16,15 +16,15 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📑 Table of Contents
 - [SaaS/Hosted Platforms](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
-### Core Platforms (Streaming ETL)
+### 🚀 Core Platforms (Streaming ETL)
 
 | Product | Description | Pricing | Free Tier Limit | Size / Valuation |
 |---------|-------------|---------|-----------------|------------------|
@@ -39,13 +39,13 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Estuary](https://estuary.dev/)** | Real-time data platform with strong streaming ETL and materialization features. | Usage-based | 10 GB/month free tier | ~$50M |
 | **[Decodable](https://www.decodable.co/)** | Serverless streaming ETL platform with SQL-based transformations. | Pay-as-you-go | 14-day free trial | ~$50M |
 
-### Advanced & Specialized Platforms
+### ⚡ Advanced & Specialized Platforms
 
 **Other notable mentions**: Flink on cloud providers and various managed streaming services.
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-### Dedicated Streaming ETL Tools
+### 🛠️ Dedicated Streaming ETL Tools
 
 - **[Apache Kafka](https://github.com/apache/kafka)** [![Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers)  
   The de-facto standard for streaming data pipelines with Connect for ETL and Streams for processing.
@@ -77,7 +77,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Fluent Bit](https://github.com/fluent/fluent-bit)** [![Stars](https://img.shields.io/github/stars/fluent/fluent-bit?style=social&color=white)](https://github.com/fluent/fluent-bit/stargazers)  
   Lightweight and high-performance log and data processor for streaming pipelines.
 
-### Additional Strong Open-Source Options
+### ➕ Additional Strong Open-Source Options
 
 - **[Kafka Connect](https://github.com/apache/kafka)** [![Stars](https://img.shields.io/github/stars/apache/kafka?style=social&color=white)](https://github.com/apache/kafka/stargazers) with numerous connectors for ETL.
 - **[Debezium](https://github.com/debezium/debezium)** [![Stars](https://img.shields.io/github/stars/debezium/debezium?style=social&color=white)](https://github.com/debezium/debezium/stargazers) — Change data capture for streaming ETL from databases.
@@ -88,7 +88,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom pipelines**: Combine **Apache Kafka**, **Flink**, **RisingWave**, and **Vector** with **dbt** or **Materialize** for complete open-source streaming ETL solutions.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -97,7 +97,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Streaming ETL performance depends heavily on data volume, latency requirements, and infrastructure.
