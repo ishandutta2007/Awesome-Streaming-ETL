@@ -23,18 +23,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Streaming ETL)
 
-| Product | Description | Pricing | Free Tier Limit |
-|---------|-------------|---------|-----------------|
-| **[Confluent Cloud](https://www.confluent.io/confluent-cloud/)** | Fully managed Kafka-based streaming platform with powerful ETL and processing capabilities. | Pay-as-you-go | $400 free trial credits (30 days), no permanent free tier |
-| **[Estuary](https://estuary.dev/)** | Real-time data platform with strong streaming ETL and materialization features. | Usage-based | 10 GB/month free tier |
-| **[Decodable](https://www.decodable.co/)** | Serverless streaming ETL platform with SQL-based transformations. | Pay-as-you-go | 14-day free trial |
-| **[Upsolver](https://www.upsolver.com/)** | Low-code streaming data platform for ETL and analytics. | Usage-based | 14-day free trial |
-| **[RisingWave Cloud](https://risingwave.com/)** | Cloud-native streaming database with powerful ETL and real-time analytics. | Compute & Storage based | Free Developer Tier available |
-| **[Tinybird](https://www.tinybird.co/)** | Real-time data platform optimized for streaming ETL and API generation. | Usage-based | Build plan free (10GB storage / 1000 req/day) |
-| **[Materialize](https://materialize.com/)** | Streaming database for real-time analytics and materialized views. | Compute & Storage based | 14-day free trial |
-| **[Aiven for Kafka](https://aiven.io/)** | Fully managed Apache Kafka with streaming ETL support. | Tiered / Hourly | $300 trial credits (30 days) |
-| **[Redpanda Cloud](https://redpanda.com/)** | Kafka-compatible streaming platform with high performance. | Pay-as-you-go / Serverless | Serverless free tier / $400 free trial credits |
-| **[StreamNative](https://streamnative.io/)** | Cloud-native event streaming platform built on Pulsar with strong ETL capabilities. | Pay-as-you-go | Free trial available |
+| Product | Description | Pricing | Free Tier Limit | Size / Valuation |
+|---------|-------------|---------|-----------------|------------------|
+| **[Confluent Cloud](https://www.confluent.io/confluent-cloud/)** | Fully managed Kafka-based streaming platform with powerful ETL and processing capabilities. | Pay-as-you-go | $400 free trial credits (30 days), no permanent free tier | ~$11B |
+| **[Aiven for Kafka](https://aiven.io/)** | Fully managed Apache Kafka with streaming ETL support. | Tiered / Hourly | $300 trial credits (30 days) | ~$3B |
+| **[Redpanda Cloud](https://redpanda.com/)** | Kafka-compatible streaming platform with high performance. | Pay-as-you-go / Serverless | Serverless free tier / $400 free trial credits | ~$1B |
+| **[StreamNative](https://streamnative.io/)** | Cloud-native event streaming platform built on Pulsar with strong ETL capabilities. | Pay-as-you-go | Free trial available | ~$200M |
+| **[Upsolver](https://www.upsolver.com/)** | Low-code streaming data platform for ETL and analytics. | Usage-based | 14-day free trial | ~$100M |
+| **[RisingWave Cloud](https://risingwave.com/)** | Cloud-native streaming database with powerful ETL and real-time analytics. | Compute & Storage based | Free Developer Tier available | ~$100M |
+| **[Tinybird](https://www.tinybird.co/)** | Real-time data platform optimized for streaming ETL and API generation. | Usage-based | Build plan free (10GB storage / 1000 req/day) | ~$100M |
+| **[Materialize](https://materialize.com/)** | Streaming database for real-time analytics and materialized views. | Compute & Storage based | 14-day free trial | ~$100M |
+| **[Estuary](https://estuary.dev/)** | Real-time data platform with strong streaming ETL and materialization features. | Usage-based | 10 GB/month free tier | ~$50M |
+| **[Decodable](https://www.decodable.co/)** | Serverless streaming ETL platform with SQL-based transformations. | Pay-as-you-go | 14-day free trial | ~$50M |
 
 ### Advanced & Specialized Platforms
 
