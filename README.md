@@ -1,4 +1,7 @@
 # Awesome-Streaming-ETL
+
+![Awesome Streaming ETL Banner](assets/banner.svg)
+
 ## Top Streaming ETL Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
