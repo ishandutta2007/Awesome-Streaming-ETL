@@ -1,3 +1,9 @@
+<!--
+  title: Awesome Streaming ETL
+  description: A curated list of top SaaS products and Open-Source projects for Streaming ETL, real-time data processing, and event streams.
+  keywords: Streaming ETL, Real-time Data, Apache Kafka, Flink, Confluent, Event Processing, Data Engineering
+-->
+
 # Awesome-Streaming-ETL
 
 ![Awesome Streaming ETL Banner](assets/banner.svg)
